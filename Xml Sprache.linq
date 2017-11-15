@@ -1,5 +1,4 @@
 <Query Kind="Program">
-  <NuGetReference>CoreTechs.Common</NuGetReference>
   <NuGetReference>Sprache</NuGetReference>
   <Namespace>Sprache</Namespace>
 </Query>
